@@ -46,7 +46,7 @@ This repo uses [Turborepo](https://turborepo.org/docs).
 
 All of our apps are in this [Turborepo](https://turborepo.org/docs), which make it easy to share packages and config between projects.
 
-### Fork the repo
+### Fork the repo 
 
 To contribute code to [Supabase](https://supabase.com), you must fork the [Supabase repo](https://github.com/supabase/supabase).
 
